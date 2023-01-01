@@ -21,7 +21,7 @@ return new class extends Migration
             $table->text('description')->nullable();
             $table->date('start_at');
             $table->date('end_at')->nullable();
-            $table->unsignedBigInteger('show_order');
+            $table->string('logo')->nullable();
             $table->timestamps();
         });
     }
