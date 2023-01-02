@@ -15,7 +15,7 @@ class EducationSeeder extends Seeder
      */
     public function run()
     {
-        DB::table('education')->insert([
+        DB::table('educations')->insert([
             [
                 'degree' => 'HighSchool',
                 'school' => 'National Organization for Development of Exceptional Talents (Zanjan SAMPAD)',
@@ -24,6 +24,8 @@ class EducationSeeder extends Seeder
                 'start_at' => '2004-09-22',
                 'end_at' => '2011-07-21',
                 'logo' => '/files/education/2/logo.jpg',
+                'created_at' => now(),
+                'updated_at' => now()
             ],
             [
                 'degree' => 'Bachelor of Science (BS)',
@@ -33,6 +35,8 @@ class EducationSeeder extends Seeder
                 'start_at' => '2012-09-22',
                 'end_at' => '2017-04-12',
                 'logo' => '/files/education/1/logo.jpg',
+                'created_at' => now(),
+                'updated_at' => now()
             ],
         ]);
     }

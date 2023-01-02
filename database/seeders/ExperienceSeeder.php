@@ -28,6 +28,8 @@ class ExperienceSeeder extends Seeder
                 'start_at' => '2013-03-01',
                 'end_at' => '2014-04-01',
                 'logo' => '/files/experiences/10/logo.png',
+                'created_at' => now(),
+                'updated_at' => now()
             ],
             [
                 'title' => 'Full Stack Web Developer , Teacher',
@@ -41,6 +43,8 @@ class ExperienceSeeder extends Seeder
                 'start_at' => '2014-07-01',
                 'end_at' => '2016-06-01',
                 'logo' => '/files/experiences/9/logo.png',
+                'created_at' => now(),
+                'updated_at' => now()
             ],
             [
                 'title' => 'Full Stack Web Developer',
@@ -95,6 +99,8 @@ class ExperienceSeeder extends Seeder
                 'start_at' => '2016-06-01',
                 'end_at' => '2017-11-01',
                 'logo' => '/files/experiences/8/logo.png',
+                'created_at' => now(),
+                'updated_at' => now()
             ],
             [
                 'title' => 'Head Of Web Department',
@@ -129,6 +135,8 @@ class ExperienceSeeder extends Seeder
                 'start_at' => '2017-11-01',
                 'end_at' => '2019-11-01',
                 'logo' => '/files/experiences/7/logo.png',
+                'created_at' => now(),
+                'updated_at' => now()
             ],
             [
                 'title' => 'Senior Web Developer',
@@ -140,6 +148,8 @@ class ExperienceSeeder extends Seeder
                 'start_at' => '2020-03-01',
                 'end_at' => '2020-04-01',
                 'logo' => '/files/experiences/6/logo.png',
+                'created_at' => now(),
+                'updated_at' => now()
             ],
             [
                 'title' => 'Full Stack Web Developer',
@@ -154,6 +164,8 @@ class ExperienceSeeder extends Seeder
                 'start_at' => '2019-11-01',
                 'end_at' => '2020-01-01',
                 'logo' => '/files/experiences/5/logo.png',
+                'created_at' => now(),
+                'updated_at' => now()
             ],
             [
                 'title' => 'Chief Technology Officer',
@@ -178,6 +190,8 @@ class ExperienceSeeder extends Seeder
                 'start_at' => '2020-01-01',
                 'end_at' => '2022-04-01',
                 'logo' => '/files/experiences/4/logo.png',
+                'created_at' => now(),
+                'updated_at' => now()
             ],
             [
                 'title' => 'Chief Technology Officer',
@@ -189,6 +203,8 @@ class ExperienceSeeder extends Seeder
                 'start_at' => '2022-04-01',
                 'end_at' => '2022-05-01',
                 'logo' => '/files/experiences/3/logo.png',
+                'created_at' => now(),
+                'updated_at' => now()
             ],
             [
                 'title' => 'Chief Technology Officer',
@@ -200,6 +216,8 @@ class ExperienceSeeder extends Seeder
                 'start_at' => '2022-06-01',
                 'end_at' => '2022-08-01',
                 'logo' => '/files/experiences/2/logo.png',
+                'created_at' => now(),
+                'updated_at' => now()
             ],
             [
                 'title' => 'Chief Technology Officer',
@@ -211,6 +229,8 @@ class ExperienceSeeder extends Seeder
                 'start_at' => '2022-08-01',
                 'end_at' => '2022-11-01',
                 'logo' => '/files/experiences/1/logo.png',
+                'created_at' => now(),
+                'updated_at' => now()
             ],
         ]);
     }

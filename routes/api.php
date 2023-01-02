@@ -23,10 +23,10 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::resource('education', EducationController::class);
-Route::resource('experience', ExperienceController::class);
-Route::resource('skill', SkillController::class);
-Route::resource('social', SocialController::class);
-Route::resource('user', UserController::class);
+Route::resource('educations', EducationController::class);
+Route::resource('experiences', ExperienceController::class);
+Route::resource('skills', SkillController::class);
+Route::resource('socials', SocialController::class);
+Route::resource('users', UserController::class);
 
 
