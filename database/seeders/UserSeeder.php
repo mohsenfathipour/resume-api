@@ -26,7 +26,7 @@ class UserSeeder extends Seeder
             'email' => 'info@mohsenfathipour.com',
             'skype' => 'skype:live:202447868ed6214e?chat',
             'mobile' => '09125676987',
-            'language' => '["Persian (Native)","Turkish (Native)","English (Fluent)"]',
+            'languages' => '["Persian (Native)","Turkish (Native)","English (Fluent)"]',
             'email_verified_at' => now(),
             'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', // password
             'avatar' => '/files/users/1/avatar.jpg',
