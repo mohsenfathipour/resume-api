@@ -23,7 +23,7 @@ class EducationSeeder extends Seeder
                 'description' => 'In High school I tested many skills like Robotics, Professional Sport and others. Finally, I got that I like Programming.',
                 'start_at' => '2004-09-22',
                 'end_at' => '2011-07-21',
-                'logo' => '/files/education/2/logo.jpg',
+                'logo' => '/files/educations/2/logo.jpg',
                 'created_at' => now(),
                 'updated_at' => now()
             ],
@@ -34,7 +34,7 @@ class EducationSeeder extends Seeder
                 'description' => "At university, I realised that I'm really passionate about artificial intelligence.<br>My final Thesis was a WAF ( Web Application Firewall ) for php that you can read more about in project lab.",
                 'start_at' => '2012-09-22',
                 'end_at' => '2017-04-12',
-                'logo' => '/files/education/1/logo.jpg',
+                'logo' => '/files/educations/1/logo.jpg',
                 'created_at' => now(),
                 'updated_at' => now()
             ],
