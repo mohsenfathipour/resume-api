@@ -27,7 +27,7 @@ class ExperienceSeeder extends Seeder
                 'description' => 'I worked on ZnFaraghat.ir , A portal for MINISTRY Of Youth and Sports in Zanjan.',
                 'start_at' => '2013-03-01',
                 'end_at' => '2014-04-01',
-                'logo' => '/files/experiences/10/logo.png',
+                'logo' => '/files/experiences/1/logo.png',
                 'created_at' => now(),
                 'updated_at' => now()
             ],
@@ -42,7 +42,7 @@ class ExperienceSeeder extends Seeder
                 I taught Web Programming , Photoshop and C++ programming for 4 terms.',
                 'start_at' => '2014-07-01',
                 'end_at' => '2016-06-01',
-                'logo' => '/files/experiences/9/logo.png',
+                'logo' => '/files/experiences/2/logo.png',
                 'created_at' => now(),
                 'updated_at' => now()
             ],
@@ -98,7 +98,7 @@ class ExperienceSeeder extends Seeder
                     and so on ...',
                 'start_at' => '2016-06-01',
                 'end_at' => '2017-11-01',
-                'logo' => '/files/experiences/8/logo.png',
+                'logo' => '/files/experiences/3/logo.png',
                 'created_at' => now(),
                 'updated_at' => now()
             ],
@@ -134,7 +134,7 @@ class ExperienceSeeder extends Seeder
                     - taking care and maintenance Domains',
                 'start_at' => '2017-11-01',
                 'end_at' => '2019-11-01',
-                'logo' => '/files/experiences/7/logo.png',
+                'logo' => '/files/experiences/4/logo.png',
                 'created_at' => now(),
                 'updated_at' => now()
             ],
@@ -147,7 +147,7 @@ class ExperienceSeeder extends Seeder
                 'description' => 'I worked on a website panel for forecasting and trading assistance with AI.',
                 'start_at' => '2020-03-01',
                 'end_at' => '2020-04-01',
-                'logo' => '/files/experiences/6/logo.png',
+                'logo' => '/files/experiences/5/logo.png',
                 'created_at' => now(),
                 'updated_at' => now()
             ],
@@ -163,7 +163,7 @@ class ExperienceSeeder extends Seeder
                 The system was built on Laravel 5.8.',
                 'start_at' => '2019-11-01',
                 'end_at' => '2020-01-01',
-                'logo' => '/files/experiences/5/logo.png',
+                'logo' => '/files/experiences/6/logo.png',
                 'created_at' => now(),
                 'updated_at' => now()
             ],
@@ -189,7 +189,7 @@ class ExperienceSeeder extends Seeder
                     And I am in charge of the Infrastructure Department.<br>',
                 'start_at' => '2020-01-01',
                 'end_at' => '2022-04-01',
-                'logo' => '/files/experiences/4/logo.png',
+                'logo' => '/files/experiences/7/logo.png',
                 'created_at' => now(),
                 'updated_at' => now()
             ],
@@ -202,7 +202,7 @@ class ExperienceSeeder extends Seeder
                 'description' => '',
                 'start_at' => '2022-04-01',
                 'end_at' => '2022-05-01',
-                'logo' => '/files/experiences/3/logo.png',
+                'logo' => '/files/experiences/8/logo.png',
                 'created_at' => now(),
                 'updated_at' => now()
             ],
@@ -215,7 +215,7 @@ class ExperienceSeeder extends Seeder
                 'description' => 'I worked on avoiding the single-seat creation algorithm.The website is a microservice architect with laravel and lumen.',
                 'start_at' => '2022-06-01',
                 'end_at' => '2022-08-01',
-                'logo' => '/files/experiences/2/logo.png',
+                'logo' => '/files/experiences/9/logo.png',
                 'created_at' => now(),
                 'updated_at' => now()
             ],
@@ -228,7 +228,7 @@ class ExperienceSeeder extends Seeder
                 'description' => 'I worked as CTO in charge of building and develop a tech team.',
                 'start_at' => '2022-08-01',
                 'end_at' => '2022-11-01',
-                'logo' => '/files/experiences/1/logo.png',
+                'logo' => '/files/experiences/10/logo.png',
                 'created_at' => now(),
                 'updated_at' => now()
             ],
